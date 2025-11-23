@@ -8,3 +8,4 @@ Integración de Componentes (Composición): La clase Motor funciona como una pie
 
 Orquestación: El archivo main.py importa todos los módulos, crea instancias específicas (como un Lexus Híbrido o una Ducati) e imprime sus estados usando el método __str__ sobreescrito en cada clase.
 
+<img width="1920" height="1080" alt="Captura de pantalla 2025-11-14 164130" src="https://github.com/user-attachments/assets/cd8cd602-11c8-4a8a-9d1f-eb00bf36ac4e" />
